@@ -1,4 +1,4 @@
-job :
+Job :
     - title
     - location 
     - type job
